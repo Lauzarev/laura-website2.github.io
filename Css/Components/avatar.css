@@ -1,0 +1,10 @@
+.avatar {
+    margin-top: 20px;
+}
+
+.avatar img {
+    display: block;
+    width: 150px;
+    height: auto;
+    margin: 0 auto;
+}
